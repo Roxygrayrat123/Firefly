@@ -23,7 +23,7 @@ passwordHint: "示例文章密码123456"
 
 ## 图片
 
-![Firefly](./images/1.avif)
+![Firefly](./images/fll.avif)
 
 ## GitHub 仓库卡片
 

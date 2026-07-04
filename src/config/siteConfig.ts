@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Roxygrayrat",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.392332.xyz/",
 
 	// 站点描述
 	description:
