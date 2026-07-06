@@ -5,7 +5,7 @@ pinned: false
 description: 一个简单的学习资料文章。
 tags: [学习, 学习资料]
 category: 学习资料
-draft: true
+draft: false
 ---
 ## 📚 网站
 **go 语法和 cloudwego 全家桶**
