@@ -1,6 +1,6 @@
 ---
 title: 学习记录
-published: 2026-07-022
+published: 2026-07-22
 pinned: false
 description: 学习记录。
 tags: [学习记录]
